@@ -13,7 +13,7 @@ Resources to help you on your learning journey.
 * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 * The [Programming Language Database](https://pldb.com/)
-* [Exercism](https://exercism.org/tracks) and [Codewars](https://www.codewars.com)
+* [Exercism](https://exercism.org/tracks), [Codewars](https://www.codewars.com), and [Kattis](https://open.kattis.com/)
 * [Replit](https://replit.com/)
 * [YouTube](https://www.youtube.com/)
   * [Derek Banas](https://www.youtube.com/@derekbanas/videos)
