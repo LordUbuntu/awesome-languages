@@ -55,6 +55,7 @@ Resources to help you on your learning journey.
 * [MASM](https://learn.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference?view=msvc-170)
 * [Mercury](https://mercurylang.org/)
 * [NASM](https://www.nasm.us/)
+* [Nelua](https://nelua.io/)
 * [Nim](https://nim-lang.org/)
 * [OCaml](https://ocaml.org/)
 * [Odin](https://odin-lang.org/)
