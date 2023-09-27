@@ -73,6 +73,7 @@ Resources to help you on your learning journey.
 * [Smalltalk](https://squeak.org/)
 * [Swift](https://developer.apple.com/swift/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [Uiua](https://www.uiua.org/)
 * [V](https://vlang.io/)
 * [WASM](https://webassembly.org/)
 * [Wren](https://wren.io/)
