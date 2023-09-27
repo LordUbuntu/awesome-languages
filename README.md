@@ -51,6 +51,7 @@ Resources to help you on your learning journey.
 * [Julia](https://julialang.org/)
 * [Kotlin](https://kotlinlang.org/)
 * [Lean](https://leanprover.github.io/)
+* [Lobster](https://strlen.com/lobster/)
 * [Lua](http://www.lua.org/)
 * [MASM](https://learn.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference?view=msvc-170)
 * [Mercury](https://mercurylang.org/)
