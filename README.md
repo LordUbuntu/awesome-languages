@@ -5,9 +5,7 @@ A collection of new, interesting, and awesome programming languages!
 
 This repository is an index of awesome programming languages and projects. It includes many programming languages you're familiar with, some languages you may be unfamiliar with, interesting languages, and emerging languages (at least 1000 stars and actively worked on, like [Kind](https://github.com/Kindelia/Kind)). Each language has a link to its homepage, documentation, and helpful learning resources. I encourage you to contribute if you find anything particularly cool that isn't already represtended here.
 
-# Learning Resources
-
-Resources to help you on your learning journey.
+# General Learning Resources
 
 * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
