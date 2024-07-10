@@ -45,6 +45,8 @@ This repository is an index of awesome programming languages and projects. It in
 * [Haskell](https://www.haskell.org/)
 * [Hy](https://docs.hylang.org/en/stable/)
 * [J](https://www.jsoftware.com/#/)
+* [JavaScript]()
+  * [Modern JavaScript Learning](https://javascript.info/)
 * [Julia](https://julialang.org/)
 * [Kotlin](https://kotlinlang.org/)
 * [Lean](https://leanprover.github.io/)
