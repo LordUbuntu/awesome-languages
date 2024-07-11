@@ -10,7 +10,7 @@ This repository is an index of awesome programming languages and projects. It in
 * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 * The [Programming Language Database](https://pldb.com/)
-* [Exercism](https://exercism.org/tracks), [Codewars](https://www.codewars.com), and [Kattis](https://open.kattis.com/)
+* [Exercism](https://exercism.org/), [Codewars](https://www.codewars.com), and [Kattis](https://open.kattis.com/)
 * [Replit](https://replit.com/)
 * [YouTube](https://www.youtube.com/)
   * [Derek Banas](https://www.youtube.com/@derekbanas/videos)
