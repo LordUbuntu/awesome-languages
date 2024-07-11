@@ -9,7 +9,6 @@ This repository is an index of awesome programming languages and projects. It in
 
 * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
-* The [Programming Language Database](https://pldb.com/)
 * [Exercism](https://exercism.org/)
 * [Codewars](https://www.codewars.com)
 * [Kattis](https://open.kattis.com/)
@@ -18,7 +17,6 @@ This repository is an index of awesome programming languages and projects. It in
   * [Derek Banas](https://www.youtube.com/@derekbanas/videos)
   * [Context Free](https://www.youtube.com/@contextfree/videos)
   * [Code_Report](https://www.youtube.com/@code_report/videos)
-* [Wikipedia List of Languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
 
 # Languages List
 
