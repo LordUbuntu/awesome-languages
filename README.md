@@ -41,6 +41,7 @@ This repository is an index of awesome programming languages and projects. It in
 * [F#](https://fsharp.org/)
 * [Forth](https://forth-standard.org/)
 * [Fortran](https://fortran-lang.org/)
+* [Gleam](https://gleam.run)
 * [Go](https://golang.org/)
 * [Haskell](https://www.haskell.org/)
 * [Hy](https://docs.hylang.org/en/stable/)
